@@ -1,0 +1,13 @@
+label, input {
+    display: block;
+    width: 100%;
+}
+
+h2 {
+    @apply text-2xl
+}
+
+.form-container {
+    margin: 0.8em 0em;
+}
+
